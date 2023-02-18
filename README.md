@@ -11,3 +11,11 @@ Entendendo Branches
 #### Titulo <h4>
 ##### Titulo <h5>
 ###### Titulo <h6>
+
+
+# Enfase de texto
+**git**  - negrito
+
+_git em italico_ 
+
+_Texto **misturando** italico e negrito_
