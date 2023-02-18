@@ -31,9 +31,14 @@ _Texto **misturando** italico e negrito_
 
 
 
-# Listas
+# Listas nao ordenada
 * Comecando com git
 * Aprendendo sobre branchs
 * Git Avancado
 * usando git profisional
 
+# lista ordenada
+1. Comecando com git
+2. Aprendendo sobre branchs
+3. Git Avancado
+4. usando git profisional
