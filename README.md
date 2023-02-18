@@ -25,6 +25,15 @@ _Texto **misturando** italico e negrito_
 ![Logo fo git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 # Rede social
-[Instagran](https://instagram.com/sujeitoprogramador)
+[**Instagran**](https://instagram.com/sujeitoprogramador)
 
-[Youtube](https://youtube.com/sujeitoprogramador)
+[**Youtube**](https://youtube.com/sujeitoprogramador)
+
+
+
+# Listas
+* Comecando com git
+* Aprendendo sobre branchs
+* Git Avancado
+* usando git profisional
+
