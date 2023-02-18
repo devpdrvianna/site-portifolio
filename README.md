@@ -13,9 +13,18 @@ Entendendo Branches
 ###### Titulo <h6>
 
 
-# Enfase de texto
+# Enfase de texto negrito e italico
 **git**  - negrito
 
 _git em italico_ 
 
 _Texto **misturando** italico e negrito_
+
+# Imagem e links
+
+![Logo fo git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
+# Rede social
+[Instagran](https://instagram.com/sujeitoprogramador)
+
+[Youtube](https://youtube.com/sujeitoprogramador)
