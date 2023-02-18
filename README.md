@@ -1,5 +1,6 @@
 # Bem vindo ao curso 
 Nesse grupo vc vai aprender a dominar
 
-##Modulos
+## Modulos:
+
 Entendendo Branches
