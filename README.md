@@ -3,7 +3,7 @@
 
 [Bemvindo](#bem-vindo-ao-curso)|
 [Modulos](#modulos)|
-[Titulos(#titulo-)|
+[Titulos(#titulos)|
 [Negrito-Italico](##enfase-de-texto-negrito-e-italico)
 
 
@@ -17,6 +17,7 @@ Nesse grupo vc vai aprender a dominar
 
 Entendendo Branches
 
+# Titulos
 # Titulo <h1>
 ## Titulo <h2>
 ### Titulo <h3>
