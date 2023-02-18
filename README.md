@@ -80,3 +80,12 @@ Function shownname(name){
 - [x] Login com facebook
 - [ ] Site responsivo
 - [ ] pagina sobre 
+
+# Tabelas
+
+Propriedades | Descrição
+-----------  | --------
+Name | Informar o nome do user
+Size | Para definir o tamanho
+background | Cor de fundo
+onpress | Funcao clicar no botao
