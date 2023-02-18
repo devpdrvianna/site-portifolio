@@ -39,9 +39,11 @@ _Texto **misturando** italico e negrito_
 
 # lista ordenada
 1. Comecando com git
-
+        
         1. o que e git
-        2. install git na maquina
+        2. treinamento 
 2. Aprendendo sobre branchs
 3. Git Avancado
+        
+        1. teste
 4. usando git profisional
