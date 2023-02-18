@@ -47,3 +47,10 @@ _Texto **misturando** italico e negrito_
         
         1. teste
 4. usando git profisional
+
+#Block code
+>Este e um block code para destacar o texto
+>Segunta area destacada
+>
+>Pulando uma linha no blockcode
+
