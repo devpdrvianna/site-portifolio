@@ -74,3 +74,9 @@ Function shownname(name){
     Titulo do projeto
 </h1>
 ```
+# Task List
+
+**Ultimos update:**
+- [x] Login com facebook
+- [ ] Site responsivo
+- [ ] pagina sobre 
