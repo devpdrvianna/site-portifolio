@@ -1,2 +1,5 @@
 # Bem vindo ao curso 
-Codigo html css 
+Nesse grupo vc vai aprender a dominar
+
+##Modulos
+Entendendo Branches
