@@ -54,3 +54,23 @@ _Texto **misturando** italico e negrito_
 >
 >Pulando uma linha no blockcode
 
+# Exemplo de codigo
+
+**Comando para rodar o projeto**
+```
+mpm start
+```
+**Outro Exemplo**
+```js
+Function shownname(name){
+    return 'Bem vindo'
+
+}
+```
+
+**Uso Html**
+```html
+<h1>
+    Titulo do projeto
+</h1>
+```
