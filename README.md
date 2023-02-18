@@ -1,5 +1,12 @@
+
+![Logo fo git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
+[Bemvindo](#bem-vindo-ao-curso)
+
+
 # Bem vindo ao curso 
 Nesse grupo vc vai aprender a dominar
+
 
 ## Modulos:
 
@@ -22,12 +29,13 @@ _Texto **misturando** italico e negrito_
 
 # Imagem e links
 
-![Logo fo git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 # Rede social
 [**Instagran**](https://instagram.com/sujeitoprogramador)
 
 [**Youtube**](https://youtube.com/sujeitoprogramador)
+
+
 
 
 
@@ -89,3 +97,9 @@ Name | Informar o nome do user
 Size | Para definir o tamanho
 background | Cor de fundo
 onpress | Funcao clicar no botao
+
+# Links internos
+
+
+
+
